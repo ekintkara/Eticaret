@@ -10,3 +10,15 @@ C:\Users\Taylan\Documents\falan\c#\Eticaret\Entity\obj\Debug\net5.0\Entity.dll
 C:\Users\Taylan\Documents\falan\c#\Eticaret\Entity\obj\Debug\net5.0\refint\Entity.dll
 C:\Users\Taylan\Documents\falan\c#\Eticaret\Entity\obj\Debug\net5.0\Entity.pdb
 C:\Users\Taylan\Documents\falan\c#\Eticaret\Entity\obj\Debug\net5.0\ref\Entity.dll
+C:\Users\kpc\Desktop\Eticaret\Entity\bin\Debug\net5.0\Entity.deps.json
+C:\Users\kpc\Desktop\Eticaret\Entity\bin\Debug\net5.0\Entity.dll
+C:\Users\kpc\Desktop\Eticaret\Entity\bin\Debug\net5.0\Entity.pdb
+C:\Users\kpc\Desktop\Eticaret\Entity\obj\Debug\net5.0\Entity.csproj.AssemblyReference.cache
+C:\Users\kpc\Desktop\Eticaret\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kpc\Desktop\Eticaret\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+C:\Users\kpc\Desktop\Eticaret\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+C:\Users\kpc\Desktop\Eticaret\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\kpc\Desktop\Eticaret\Entity\obj\Debug\net5.0\Entity.dll
+C:\Users\kpc\Desktop\Eticaret\Entity\obj\Debug\net5.0\refint\Entity.dll
+C:\Users\kpc\Desktop\Eticaret\Entity\obj\Debug\net5.0\Entity.pdb
+C:\Users\kpc\Desktop\Eticaret\Entity\obj\Debug\net5.0\ref\Entity.dll

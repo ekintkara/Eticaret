@@ -66,7 +66,7 @@ namespace AdminUI.Controllers
         public IActionResult AddUser(User u)
         {
             userService.add(u);
-            return RedirectToAction("Index");
+            return RedirectToAction("LoginPanel");
         }
 
         public IActionResult Index()

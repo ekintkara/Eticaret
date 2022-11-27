@@ -5937,19 +5937,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Taylan\\.nuget\\packages\\": {}
+    "C:\\Users\\kpc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Taylan\\Documents\\falan\\c#\\Eticaret\\Presentation\\Presentation.csproj",
+      "projectUniqueName": "C:\\Users\\kpc\\Desktop\\Eticaret\\Presentation\\Presentation.csproj",
       "projectName": "Presentation",
-      "projectPath": "C:\\Users\\Taylan\\Documents\\falan\\c#\\Eticaret\\Presentation\\Presentation.csproj",
-      "packagesPath": "C:\\Users\\Taylan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Taylan\\Documents\\falan\\c#\\Eticaret\\Presentation\\obj\\",
+      "projectPath": "C:\\Users\\kpc\\Desktop\\Eticaret\\Presentation\\Presentation.csproj",
+      "packagesPath": "C:\\Users\\kpc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kpc\\Desktop\\Eticaret\\Presentation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Taylan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kpc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5999,7 +5999,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

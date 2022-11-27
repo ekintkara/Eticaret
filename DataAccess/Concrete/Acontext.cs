@@ -13,7 +13,7 @@ namespace DataAccess.Concrete
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseSqlServer(@"Server=EKIN;Database=EComDemoDB;Trusted_Connection=true");
+            optionsBuilder.UseSqlServer(@"Server=.\EKIN;Database=EticaretDbb;Trusted_Connection=true");
         }
 
         public DbSet<Product> Products { get; set; }

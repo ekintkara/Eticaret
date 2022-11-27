@@ -5937,19 +5937,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Taylan\\.nuget\\packages\\": {}
+    "C:\\Users\\kpc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Taylan\\Documents\\falan\\c#\\Eticaret\\Entity\\Entity.csproj",
+      "projectUniqueName": "C:\\Users\\kpc\\Desktop\\Eticaret\\Entity\\Entity.csproj",
       "projectName": "Entity",
-      "projectPath": "C:\\Users\\Taylan\\Documents\\falan\\c#\\Eticaret\\Entity\\Entity.csproj",
-      "packagesPath": "C:\\Users\\Taylan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Taylan\\Documents\\falan\\c#\\Eticaret\\Entity\\obj\\",
+      "projectPath": "C:\\Users\\kpc\\Desktop\\Eticaret\\Entity\\Entity.csproj",
+      "packagesPath": "C:\\Users\\kpc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kpc\\Desktop\\Eticaret\\Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Taylan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kpc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5996,7 +5996,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
